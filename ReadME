@@ -1,4 +1,4 @@
 This will be a basic fuel guage by measureing the resistance from the fuel tank sender on the Vstrom 1000
-One Analog ADC pin on the Odroid should handle the fuel tank sensor 4 ohm full 182 ohm empty 
+One Analog ADC pin on the Khadas VIM3 SBC should handle the fuel tank sensor 4 ohm full 182 ohm empty 
 
 This will eventually be used in the full Fuel computer as part of the input data for calculations.
